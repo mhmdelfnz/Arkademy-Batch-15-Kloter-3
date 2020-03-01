@@ -1,5 +1,5 @@
 function return_biodata(){
-	let = biodata {
+	let biodata = {
 		"name"       : "Muhammad Elfanza",
 		"age"        : 17,
 		"address"    : "Perumahan Titan Arum Blok A1 Nomor 18 Legok, Serang-Banten",
